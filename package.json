@@ -1,0 +1,35 @@
+{
+  "name": "pacote-play-teste",
+  "description": "Pacote teste",
+  "keywords": [
+    "minhas",
+    "palavras",
+    "chaves"
+  ],
+  "tags": [
+    "minhas",
+    "tags"
+  ],
+  "version": "0.0.1",
+  "author": "Jayr Alencar <jayralencarpereira@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geordtl/pacote-npm.git"
+  },
+  "dependencies": {
+    "sql.js": "0.2.0",
+    "crypto-js": "3.1.5"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/geordtl/pacote-npm/issues"
+  },
+  "homepage": "https://github.com/geordtl/pacote-npm#readme",
+  "scripts": {
+    "test": "teste"
+  }
+}
